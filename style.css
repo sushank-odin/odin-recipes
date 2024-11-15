@@ -1,0 +1,11 @@
+/* Add CSS styling here */
+* {
+    background-color: #fbe9d0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#odin {
+    text-align: center;
+    color:#e64333;
+
+}
