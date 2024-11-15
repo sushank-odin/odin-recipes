@@ -1,0 +1,16 @@
+/* Add CSS Styling here */
+* {
+background-color: #dbe9d0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.center {
+    text-align: center;
+    color: #e64333;
+
+}
+img {
+    text-align: center ;
+    height:auto;
+    width: 300px;
+}
